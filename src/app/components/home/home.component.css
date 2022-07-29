@@ -1,0 +1,10 @@
+.menu {
+    background: #ad7878;
+    color: whitesmoke;
+    height: 28px;
+}
+
+.main {
+    padding: 10px;
+    background: rgba(209, 203, 196, 0.801);
+}
